@@ -1,4 +1,4 @@
-# cómo crear una aplicación de tareas en JavaScript
+# Cómo crear una aplicación de tareas en JavaScript
 En este documento aprenderás a construir una aplicación sencilla de tareas utilizando JavaScript, HTML y CSS. Esta aplicación te permitirá agregar, completar y eliminar tareas.
 
 ###  Instrucciones Generales
